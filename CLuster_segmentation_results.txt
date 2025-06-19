@@ -1,0 +1,69 @@
+============================================================
+CUSTOMER SEGMENTATION ANALYSIS
+============================================================
+
+🎯 CLUSTER 0 (n=18 customers)
+----------------------------------------
+Age: 33.3 ± 4.4 years
+Annual Income: $87.1k ± $18.9k
+Spending Score: 82.7 ± 11.1
+Gender: {'Male': 18}
+
+🎯 CLUSTER 1 (n=37 customers)
+----------------------------------------
+Age: 50.9 ± 8.9 years
+Annual Income: $47.2k ± $13.8k
+Spending Score: 40.8 ± 15.4
+Gender: {'Female': 37}
+
+🎯 CLUSTER 2 (n=19 customers)
+----------------------------------------
+Age: 38.5 ± 12.0 years
+Annual Income: $85.9k ± $16.1k
+Spending Score: 14.2 ± 9.8
+Gender: {'Male': 19}
+
+🎯 CLUSTER 3 (n=24 customers)
+----------------------------------------
+Age: 25.2 ± 6.9 years
+Annual Income: $41.2k ± $17.2k
+Spending Score: 60.9 ± 15.8
+Gender: {'Male': 24}
+
+🎯 CLUSTER 4 (n=34 customers)
+----------------------------------------
+Age: 26.0 ± 5.3 years
+Annual Income: $39.5k ± $17.1k
+Spending Score: 59.5 ± 20.1
+Gender: {'Female': 34}
+
+🎯 CLUSTER 5 (n=22 customers)
+----------------------------------------
+Age: 32.5 ± 3.4 years
+Annual Income: $85.3k ± $14.3k
+Spending Score: 80.6 ± 9.2
+Gender: {'Female': 22}
+
+🎯 CLUSTER 6 (n=27 customers)
+----------------------------------------
+Age: 58.0 ± 8.9 years
+Annual Income: $47.6k ± $15.3k
+Spending Score: 38.9 ± 18.1
+Gender: {'Male': 27}
+
+🎯 CLUSTER 7 (n=19 customers)
+----------------------------------------
+Age: 41.2 ± 9.9 years
+Annual Income: $87.9k ± $17.0k
+Spending Score: 24.6 ± 10.6
+Gender: {'Female': 19}
+
+📊 CLUSTER DISTRIBUTION:
+Cluster 0: 18 customers (9.0%)
+Cluster 1: 37 customers (18.5%)
+Cluster 2: 19 customers (9.5%)
+Cluster 3: 24 customers (12.0%)
+Cluster 4: 34 customers (17.0%)
+Cluster 5: 22 customers (11.0%)
+Cluster 6: 27 customers (13.5%)
+Cluster 7: 19 customers (9.5%)
